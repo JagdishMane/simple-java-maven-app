@@ -1,7 +1,7 @@
 pipeline {
     agent any
     tools {
-      maven "maven_360"
+      maven "maven_386"
     }
     stages {
         stage('Checkout') {
